@@ -1,5 +1,6 @@
 package com.chariotsolutions.nfc.plugin;
 
+import android.nfc.tech.MifareClassic;
 import android.nfc.NdefMessage;
 import android.nfc.NdefRecord;
 import android.nfc.Tag;
